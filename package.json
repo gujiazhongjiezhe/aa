@@ -1,0 +1,26 @@
+{
+  "name": "aa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gujiazhongjiezhe/aa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gujiazhongjiezhe/aa/issues"
+  },
+  "homepage": "https://github.com/gujiazhongjiezhe/aa#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1",
+    "swiper": "^6.4.5"
+  }
+}
